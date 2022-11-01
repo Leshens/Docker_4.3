@@ -1,0 +1,4 @@
+# Project exclude paths
+/api/node_modules/
+/node_modules/
+/tests/node_modules/
